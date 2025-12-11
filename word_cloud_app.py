@@ -79,4 +79,3 @@ if uploaded_file is not None:
 
 else:
     st.info("Please upload a PDF file to proceed.")
-
